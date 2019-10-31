@@ -1,0 +1,9 @@
+Highlast/F02angerhighlast.png
+Highlast/F03disgusthighlast.png
+Highlast/F03surprisehighlast.png
+Highlast/M02embarrassmenthighlast.png
+Highlast/M02sadnesshighlast.png
+Highlast/F01surprisehighneutral.png
+Highlast/M11contempthighlast.png
+Highlast/M02joyhighlast.png
+Highlast/M02fearhighlast.png
