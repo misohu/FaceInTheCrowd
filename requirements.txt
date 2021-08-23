@@ -4,6 +4,6 @@ ipython==7.5.0
 ipython-genutils==0.2.0
 jupyter-client==5.2.4
 jupyter-core==4.4.0
-jupyterlab==0.35.6
+jupyterlab==1.2.21
 jupyterlab-server==0.2.0
 Pillow==6.2.1
